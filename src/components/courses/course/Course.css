@@ -1,0 +1,73 @@
+ .Course {
+  height: 25vh;
+  width: 100%;
+}
+
+.Course:hover {
+  cursor: pointer;
+}
+
+
+.Course h1 {
+  position: relative;
+  margin: auto;
+  top: 23px;
+  
+  width: 75%;
+  height: 20vh;
+  line-height: 18vh;
+}
+
+
+
+.French {
+  background: #c493e8
+  
+}
+.French h1:hover {
+  background: #dfbff7
+}
+.French h1 {
+  background: #b461f1;
+  border: 1px solid gray;
+}
+
+
+.English {
+  background: #eed7b7
+}
+
+.English h1:hover {
+  background: #f7dbb6
+}
+
+.English h1 {
+  background: #eec080;
+  border: 1px solid gray;
+}
+
+.German {
+  background: #87c9e5
+}
+
+.German h1:hover {
+  background: #97dcfc
+}
+
+.German h1 {
+  background: #5bbce9;
+  border: 1px solid gray;
+}
+
+.Spanish {
+  background: #9aec8c
+}
+
+.Spanish h1:hover {
+  background: #c7f5c0
+}
+
+.Spanish h1 {
+  background: #74f261;
+  border: 1px solid gray;
+}

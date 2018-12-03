@@ -1,0 +1,17 @@
+.Lessons{
+  width: 80%;
+  float: left;
+  height: 100vh;
+  background: rgb(190,200,190);
+  position: relative
+}
+
+.Lessons h1 {
+  /* line-height: 100%; */
+  margin: 250px  0 0 0;
+  font-size: 40px
+}
+
+.Lessons p {
+  font-size: 20px
+}
